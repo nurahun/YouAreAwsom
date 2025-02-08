@@ -30,7 +30,7 @@ struct ContentView: View {
                     .scaledToFit()
                     .foregroundStyle(.purple)
             }
-            Text("You are awesome!")
+            Text("I Am Awsome!")
                 .font(.largeTitle)
                 .fontWeight(.regular)
                 .foregroundStyle(.red)
